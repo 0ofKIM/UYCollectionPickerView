@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "collectionpickerview",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/3ph/CollectionPickerView.git",
+      "state" : {
+        "branch" : "master",
+        "revision" : "9701b838bc58e6ffbfbc4dab85ec72a621c666a5"
+      }
+    }
+  ],
+  "version" : 2
+}
